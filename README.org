@@ -1,0 +1,5 @@
+#+TITLE: Windows simulator for Emacs
+
+The world's most popular desktop OS, in Emacs!
+
+I was not in a great frame of mind when I wrote this.
